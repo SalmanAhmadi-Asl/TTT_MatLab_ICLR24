@@ -18,8 +18,8 @@ In order to run the demos, you will need to add to your MATLAB path:
 
 Additionnally, you will need:
 
-- The tensor_toolbox-v3.4 toolbox: https://rb.gy/nlq3w 
-- Two additional tensor toolboxes: https://rb.gy/6q2cn and https://rb.gy/zv61l
+- The tensor_toolbox-v3.4 toolbox: https://rb.gy/nlq3w
+- Download the Tensorbox https://drive.google.com/file/d/1FJ-cHl54Dxxx1VqGX8-ezX1KoHURqhKO/view
 
 Please copy and paste these toolboxes within the /Libraries directory, see Content section below.
 
